@@ -94,7 +94,6 @@
 			<div class="container">
 				<div class="card">
 					
-					<table width="100%" height="400" border="0">
 					  <tbody>
 					    <tr>
 					      <td width="50%" valign="center" align="left"><img src="images/e4.png" width="100%" alt=""/>&nbsp;</td>
