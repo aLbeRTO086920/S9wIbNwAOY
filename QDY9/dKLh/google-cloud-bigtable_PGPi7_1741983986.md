@@ -14,6 +14,5 @@ FROM gcr.io/distroless/static:nonroot
 
 WORKDIR /
 COPY --from=builder /workspace/bin/manager .
-USER nonroot:nonroot
 
 ENTRYPOINT ["/manager"]
