@@ -8,7 +8,6 @@ Books
 * https://developers.redhat.com/promotions/distributed-javaee-architecture/
 * https://www.openshift.com/promotions/docker-security.html
 * https://content.pivotal.io/ebooks/migrating-to-cloud-native-application-architectures
-* https://content.pivotal.io/ebooks/beyond-the-12-factor-app
 
 
 Fast Monolith vs. Microservices from the start? 
